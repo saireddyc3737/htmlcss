@@ -1,0 +1,38 @@
+<!doctype>
+
+<html>
+<head>
+<title>examples of htmlpage</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<h1 style="color:blue;background:red;" >your website titler</h1>
+
+
+<span valine="left">
+  <input  type="text" autofocus placeholder="search  ">
+  <button type="text" placeholder="go">
+  
+  
+<div><br>
+<div  style="color:blue;background:blue;width:100%">
+<table style="width:50%" border="2">
+<tr><td><select style="menu; color:blue;">
+   <option type="math">maths </option>
+      <option type="m1"> m1 </option>
+	  <option type="m2" >m2</option>
+	  <option type="m3" >m3 </option>
+	  </select></td>
+	  <td>solution</td>
+	  <td>slideshow</td>
+	  <td>video</td>
+	  <td>help</td>
+	  <td>entair tr</td>
+	  </tr>	
+</table></div>
+
+<a href="C:\Users\saire\OneDrive\Desktop.jpg"
+
+</div>
+</body>
+</html>
